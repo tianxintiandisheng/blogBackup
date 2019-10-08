@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 tags:
-categories:{{CSS深度思考2}}
+categories:
+  - 层叠样式表CSS
+  - 深度思考3
 ---
-
-<!-- more -->
