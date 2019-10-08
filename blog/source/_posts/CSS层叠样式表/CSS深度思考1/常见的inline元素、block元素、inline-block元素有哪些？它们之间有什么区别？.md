@@ -8,6 +8,9 @@ categories:
 ---
 >每个html标签元素都有其默认的元素类型，主要包括两大类:inline内联元素、block块元素。除默认为以上两种，还有部分标签元素叫可变元素，会根据上下文语境决定该元素为inline元素或是block元素。在css里，有一个display的属性，他规定元素应该生成的框的类型。可能的值有很多，inline、block、inline-block,其中inline-block是在css2.1里新增的值。具有这个值的元素，我们可以把它叫做inline-block元素。
 
+<!-- more -->
+
+
 # 一.inline元素、block元素、inline-block元素的具体解释
 
 ## inline元素

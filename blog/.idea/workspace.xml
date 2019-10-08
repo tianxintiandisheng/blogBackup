@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0719f2a1-c37d-4073-bac2-3323b0799e75" name="Default" comment="修改新增文章模板&#10;上传css2深度思考前两个问题">
-      <change afterPath="$PROJECT_DIR$/scripts/openNewFile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/svn和git有什么区别.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/如何利用github搭建自己的个人网站？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/如何将代码部署至自己的服务器？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/如何配置nginx，实现在手机上查看页面？.md" afterDir="false" />
+    <list default="true" id="0719f2a1-c37d-4073-bac2-3323b0799e75" name="Default" comment="使用js实现在 hexo new 新建文件之后立即打开新建的 Markdown 文稿">
+      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/css有哪些选择器，优先级如何计算？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/px、em、rem、-、vw、wh、vm等单位有什么区别？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/什么时候用margin好，什么时候用padding好？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/如何利用PS切图以及从UI图中获取所需信息？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/如何进行自适应网页设计？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/手机分辨率和网页中的px是一回事吗？.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/如何使用git将代码上传至github.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/如何使用git将代码上传至github.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/如何使用svn将代码上传至github.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/如何使用svn将代码上传至github.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/ES6-新特性简要总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JS/ES6-新特性简要总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/HTML文件里开头的-Doctype有什么作用？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/HTML文件里开头的-Doctype有什么作用？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/IDE是什么？它和文本编辑器相比有什么优缺点？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/IDE是什么？它和文本编辑器相比有什么优缺点？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Markdown-配置七牛云作为图床.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/工具使用/Markdown-配置七牛云作为图床.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Markdown中使用html标签.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/工具使用/Markdown中使用html标签.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/PS破解教程2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/工具使用/PS破解教程2019.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/css常用命名规范.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/css常用命名规范.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hexo快速入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/工具使用/hexo快速入门.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/js取出事件对象中对应的值显示未定义.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JS/js取出事件对象中对应的值显示未定义.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/svn和git有什么区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/svn和git有什么区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/webstorm默认配置下的常用快捷键.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/工具使用/webstorm默认配置下的常用快捷键.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/九宫格的布局你还能想到哪些办法实现？它们各自的优势劣势是什么？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/九宫格的布局你还能想到哪些办法实现？它们各自的优势劣势是什么？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/使用js或css实现瀑布流（Pinterest）布局教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/使用js或css实现瀑布流（Pinterest）布局教程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/加和不加meta的viewport有什么区别？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/加和不加meta的viewport有什么区别？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/取消浏览器对页面滚动条位置的记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JS/取消浏览器对页面滚动条位置的记录.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何使用git将代码上传至github.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何使用git将代码上传至github.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何使用svn将代码上传至github.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何使用svn将代码上传至github.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何使用浏览器的F12调试页面.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/如何使用浏览器的F12调试页面.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何利用github搭建自己的个人网站？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何利用github搭建自己的个人网站？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何将代码部署至自己的服务器？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何将代码部署至自己的服务器？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何理解盒模型及其content、padding、border、margin？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/如何理解盒模型及其content、padding、border、margin？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何配置nginx，实现在手机上查看页面？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何配置nginx，实现在手机上查看页面？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何验证程序是否完成，测试以及修正Bug.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/项目开发/如何验证程序是否完成，测试以及修正Bug.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/常见的inline元素、block元素、inline-block元素有哪些？它们之间有什么区别？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/常见的inline元素、block元素、inline-block元素有哪些？它们之间有什么区别？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/异步请求之设置Content-Type.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JS/异步请求之设置Content-Type.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序setData中键名key中使用变量.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序/微信小程序setData中键名key中使用变量.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序上拉加载和下拉刷新.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序/微信小程序上拉加载和下拉刷新.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序实现视图向js传递参数.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序/微信小程序实现视图向js传递参数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序将时间戳转化为几天前.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序/微信小程序将时间戳转化为几天前.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序视图层处理增强之WXS.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序/微信小程序视图层处理增强之WXS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序设置过滤器将时间戳转化为日期字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序/微信小程序设置过滤器将时间戳转化为日期字符串.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序页面跳转.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序/微信小程序页面跳转.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/敏捷开发流程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/项目开发/敏捷开发流程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/简述JavaScript中this的指向.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JS/简述JavaScript中this的指向.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +68,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/px、em、rem、-、vw、wh、vm等单位有什么区别？.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何使用git将代码上传至github.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -48,11 +80,71 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/如何进行自适应网页设计？.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何使用svn将代码上传至github.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
-                <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" selection-start-line="10" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/svn和git有什么区别.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="300">
+                <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/JS/取消浏览器对页面滚动条位置的记录.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="150">
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/css常用命名规范.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/常见的inline元素、block元素、inline-block元素有哪些？它们之间有什么区别？.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/项目开发/如何验证程序是否完成，测试以及修正Bug.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="555">
+                <caret line="37" column="8" selection-end-line="96" />
               </first_editor>
               <second_editor />
             </state>
@@ -60,29 +152,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scripts/openNewFile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/md/webstorm默认配置下的常用快捷键.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/项目开发/敏捷开发流程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/手机分辨率和网页中的px是一回事吗？.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -149,8 +224,6 @@
         <option value="$PROJECT_DIR$/source/_posts/如何配置nginx，实现在手机上查看页面？.md" />
         <option value="$PROJECT_DIR$/source/_posts/如何利用github搭建自己的个人网站？.md" />
         <option value="$PROJECT_DIR$/source/_posts/svn和git有什么区别.md" />
-        <option value="$PROJECT_DIR$/source/_posts/如何使用svn将代码上传至github.md" />
-        <option value="$PROJECT_DIR$/source/_posts/如何使用git将代码上传至github.md" />
         <option value="$PROJECT_DIR$/source/_posts/如何利用PS切图以及从UI图中获取所需信息？.md" />
         <option value="$PROJECT_DIR$/scaffolds/post.md" />
         <option value="$PROJECT_DIR$/source/_posts/px、em、rem、-、vw、wh、vm等单位有什么区别？.md" />
@@ -158,6 +231,11 @@
         <option value="$PROJECT_DIR$/source/_posts/css有哪些选择器，优先级如何计算？.md" />
         <option value="$PROJECT_DIR$/source/_posts/什么时候用margin好，什么时候用padding好？.md" />
         <option value="$PROJECT_DIR$/scripts/openNewFile.js" />
+        <option value="$PROJECT_DIR$/source/_posts/手机分辨率和网页中的px是一回事吗？.md" />
+        <option value="$PROJECT_DIR$/source/_posts/如何使用git将代码上传至github.md" />
+        <option value="$PROJECT_DIR$/source/_posts/如何使用svn将代码上传至github.md" />
+        <option value="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/常见的inline元素、block元素、inline-block元素有哪些？它们之间有什么区别？.md" />
+        <option value="$PROJECT_DIR$/source/_posts/项目开发/敏捷开发流程.md" />
       </list>
     </option>
   </component>
@@ -192,6 +270,11 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -220,6 +303,15 @@
     <property name="node.js.selected.package.standard" value="C:\Users\Administrator\AppData\Roaming\npm\node_modules\eslint" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\项目开发" />
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts" />
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS" />
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\CSS层叠样式表" />
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\微信小程序" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,7 +345,7 @@
       <workItem from="1570099981683" duration="13558000" />
       <workItem from="1570450441996" duration="1446000" />
       <workItem from="1570459731843" duration="4583000" />
-      <workItem from="1570501161591" duration="6993000" />
+      <workItem from="1570501161591" duration="10155000" />
     </task>
     <task id="LOCAL-00001" summary="新电脑第一次备份">
       <created>1552050673734</created>
@@ -290,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1570460719244</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="使用js实现在 hexo new 新建文件之后立即打开新建的 Markdown 文稿">
+      <created>1570513940892</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570513940892</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50711000" />
+    <option name="totallyTimeSpent" value="53873000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -307,20 +406,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23498419" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23498419" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32700893" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993395" visible="true" weight="0.26450893" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4993395" visible="true" weight="0.26450893" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.22352941" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -376,19 +474,13 @@
     <MESSAGE value="新增博客文章" />
     <MESSAGE value="修复无法显示css分类的bug&#10;不知道为什么无法显示&#10;把分类名字改了就可以显示了，搞不懂" />
     <MESSAGE value="修改新增文章模板&#10;上传css2深度思考前两个问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改新增文章模板&#10;上传css2深度思考前两个问题" />
+    <MESSAGE value="使用js实现在 hexo new 新建文件之后立即打开新建的 Markdown 文稿" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用js实现在 hexo new 新建文件之后立即打开新建的 Markdown 文稿" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/ppt地址-https-it-xzy-github-io-WEB-NEW-2018-8-24-D-js5-tds-html.md" />
     <entry file="file://$PROJECT_DIR$/public/CNAME" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/Markdown-配置七牛云作为图床.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/工具使用/Markdown-配置七牛云作为图床.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="556">
@@ -399,27 +491,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/太吴绘卷.md" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/取消浏览器对页面滚动条位置的记录.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="15">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何验证程序是否完成，测试以及修正Bug.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="6" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序设置过滤器将时间戳转化为日期字符串.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序/微信小程序设置过滤器将时间戳转化为日期字符串.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -441,7 +513,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序页面跳转.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序/微信小程序页面跳转.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -456,7 +528,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/简述JavaScript中this的指向.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS/简述JavaScript中this的指向.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="315">
@@ -466,17 +538,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/敏捷开发流程.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序视图层处理增强之WXS.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序/微信小程序视图层处理增强之WXS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
@@ -496,7 +558,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序将时间戳转化为几天前.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序/微信小程序将时间戳转化为几天前.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -504,7 +566,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/异步请求之设置Content-Type.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS/异步请求之设置Content-Type.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
@@ -514,7 +576,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序上拉加载和下拉刷新.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/微信小程序/微信小程序上拉加载和下拉刷新.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
@@ -524,7 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何使用浏览器的F12调试页面.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/如何使用浏览器的F12调试页面.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
@@ -551,7 +613,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/text.md" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/js取出事件对象中对应的值显示未定义.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS/js取出事件对象中对应的值显示未定义.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -559,7 +621,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/使用js或css实现瀑布流（Pinterest）布局教程.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/使用js或css实现瀑布流（Pinterest）布局教程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
@@ -569,7 +631,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/webstorm默认配置下的常用快捷键.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/工具使用/webstorm默认配置下的常用快捷键.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
@@ -579,17 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/css常用命名规范.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/HTML文件里开头的-Doctype有什么作用？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/HTML文件里开头的-Doctype有什么作用？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
@@ -599,7 +651,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/九宫格的布局你还能想到哪些办法实现？它们各自的优势劣势是什么？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/九宫格的布局你还能想到哪些办法实现？它们各自的优势劣势是什么？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
@@ -609,7 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/加和不加meta的viewport有什么区别？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/加和不加meta的viewport有什么区别？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="457">
@@ -619,7 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/hexo快速入门.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/工具使用/hexo快速入门.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="45">
@@ -629,7 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何理解盒模型及其content、padding、border、margin？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/如何理解盒模型及其content、padding、border、margin？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
@@ -639,7 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/IDE是什么？它和文本编辑器相比有什么优缺点？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/IDE是什么？它和文本编辑器相比有什么优缺点？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="15">
@@ -649,7 +701,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/PS破解教程2019.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/工具使用/PS破解教程2019.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
@@ -659,7 +711,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何利用PS切图以及从UI图中获取所需信息？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/如何利用PS切图以及从UI图中获取所需信息？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="420">
@@ -669,7 +721,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何将代码部署至自己的服务器？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何将代码部署至自己的服务器？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
@@ -679,7 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何配置nginx，实现在手机上查看页面？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何配置nginx，实现在手机上查看页面？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
@@ -689,7 +741,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何利用github搭建自己的个人网站？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何利用github搭建自己的个人网站？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
@@ -699,67 +751,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/svn和git有什么区别.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何使用git将代码上传至github.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何使用svn将代码上传至github.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/px、em、rem、-、vw、wh、vm等单位有什么区别？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/如何进行自适应网页设计？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="25" selection-start-line="25" selection-end-line="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/什么时候用margin好，什么时候用padding好？.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/什么时候用margin好，什么时候用padding好？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
@@ -769,25 +761,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/css有哪些选择器，优先级如何计算？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" selection-start-line="34" selection-end-line="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/md/webstorm默认配置下的常用快捷键.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/手机分辨率和网页中的px是一回事吗？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -814,7 +788,137 @@
     <entry file="file://$PROJECT_DIR$/scripts/openNewFile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/手机分辨率和网页中的px是一回事吗？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="491">
+            <caret line="69" selection-start-line="69" selection-end-line="69" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/px、em、rem、-、vw、wh、vm等单位有什么区别？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/如何进行自适应网页设计？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何使用git将代码上传至github.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考3/css有哪些选择器，优先级如何计算？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="34" selection-start-line="34" selection-end-line="34" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/svn和git有什么区别.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS/取消浏览器对页面滚动条位置的记录.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/css常用命名规范.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考2/如何使用svn将代码上传至github.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" selection-start-line="10" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/常见的inline元素、block元素、inline-block元素有哪些？它们之间有什么区别？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/项目开发/如何验证程序是否完成，测试以及修正Bug.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="555">
+            <caret line="37" column="8" selection-end-line="96" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/项目开发/敏捷开发流程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
