@@ -3,6 +3,7 @@ title: Markdown中使用html标签
 date: 2018-08-28 15:09:46
 tags:
 categories: 
+  - 工具使用
   - Markdown
 ---
 >有时候,我们会在笔记中使用一些HTML标签,但是Markdown中直接使用html标签会被解析为格式.该怎么书写，可以直接显示为html的标签呢.
