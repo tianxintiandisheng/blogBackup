@@ -10,21 +10,17 @@ categories:
 
 <!-- more -->
 
-#简介
 
-## 什么是viewport？
+# 什么是viewport？
 
 **vieport**是用户在网页上的可见区域。 
 
 # 什么是meta？
-
+w
 `<meta> `是HTML5中引入的一种使设计人员标记控制**vieport**的标签。
 
 
-
-# `<meta> ` 的作用
-
-## 为什么要加入`<meta> `，不加会有什么影响？
+# 为什么要加入`<meta> `，不加会有什么影响？
 
 
 
@@ -36,7 +32,7 @@ categories:
 
 
 
-##如何使用 `<meta> `？
+## 如何使用 `<meta> `？
 
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
