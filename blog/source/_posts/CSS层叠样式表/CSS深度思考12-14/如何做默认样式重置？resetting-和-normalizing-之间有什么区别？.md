@@ -2,7 +2,7 @@
 title: 如何做默认样式重置？resetting 和 normalizing 之间有什么区别？
 categories:
   - 层叠样式表CSS
-  - 深度思考12-14
+  - 深度思考
 date: 2019-10-10 23:59:37
 tags:
 ---

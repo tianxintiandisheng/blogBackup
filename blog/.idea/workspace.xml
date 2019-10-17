@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0719f2a1-c37d-4073-bac2-3323b0799e75" name="Default" comment="上传css深度思考3-7">
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考10/如何改变默认radio和select的样式？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考10/自适应小屏幕设备时，该如何布局？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考11/less和sass有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考11/如何使用gulp编辑less？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考11/如何使用less.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考11/如何使用sass.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/为什么要做组件库？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/固定宽度布局开发WebApp如何实现多终端下自适应？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/如何做默认样式重置？resetting-和-normalizing-之间有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/开发过程中应该遵守哪些编码规范和class命名规范？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/移动端有哪些常见布局方式？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/经常遇到的浏览器的兼容性有哪些？原因，解决方法是什么，常用hack的技巧-？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/请描述-BFC-Block-Formatting-Context-及其如何工作？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/谈谈以前端角度出发做好SEO需要考虑什么？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/HTML5的离线储存怎么使用？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/Quirks模式是什么？它和Standards模式有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/渐进增强和优雅降级之间有什么不同.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/目前流行的组件库有哪些？css，js各有哪些流行的库？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/知道css有个content属性吗？有什么作用？有什么应用？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/知道什么是微格式吗？谈谈理解。在前端构建中应该考虑微格式吗？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考8/bootstrap有哪些常用组件？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考8/css有哪些方式可以实现垂直居中？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考8/div-css的布局较table布局有什么优点？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考8/margin负值在页面布局中有哪些应用？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考8/主流浏览器内核有哪几种？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考8/什么是外边距重叠？重叠的结果是什么？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考8/如何实现轮播图？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考8/如何用css写一个简单的幻灯片效果页面？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考9/响应式的优点与缺点？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考9/如何使用bootstrap栅格系统？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考9/媒体查询如何使用？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS编码规范.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/加和不加meta的viewport有什么区别？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/加和不加meta的viewport有什么区别？.md" afterDir="false" />
-    </list>
+    <list default="true" id="0719f2a1-c37d-4073-bac2-3323b0799e75" name="Default" comment="上传css深度思考3-7" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -65,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/目前流行的组件库有哪些？css，js各有哪些流行的库？.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="491">
+              <first_editor relative-caret-position="630">
                 <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
               </first_editor>
               <second_editor />
@@ -125,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/知道什么是微格式吗？谈谈理解。在前端构建中应该考虑微格式吗？.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="491">
+              <first_editor relative-caret-position="1995">
                 <caret line="133" column="59" selection-start-line="133" selection-start-column="59" selection-end-line="133" selection-end-column="59" />
               </first_editor>
               <second_editor />
@@ -137,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/知道css有个content属性吗？有什么作用？有什么应用？.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="565">
+              <first_editor relative-caret-position="570">
                 <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
               </first_editor>
               <second_editor />
@@ -149,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/谈谈以前端角度出发做好SEO需要考虑什么？.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="491">
+              <first_editor relative-caret-position="1800">
                 <caret line="120" column="62" selection-start-line="120" selection-start-column="62" selection-end-line="120" selection-end-column="62" />
               </first_editor>
               <second_editor />
@@ -269,10 +233,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="273" />
-    <option name="y" value="386" />
-    <option name="width" value="1213" />
-    <option name="height" value="604" />
+    <option name="x" value="591" />
+    <option name="y" value="6" />
+    <option name="width" value="752" />
+    <option name="height" value="626" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -282,6 +246,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -311,14 +276,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/old projiect/SVN/studentWar" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
@@ -373,6 +337,7 @@
       <workItem from="1570633375551" duration="7133000" />
       <workItem from="1570683149083" duration="10197000" />
       <workItem from="1570795384254" duration="7752000" />
+      <workItem from="1570978583581" duration="818000" />
     </task>
     <task id="LOCAL-00001" summary="新电脑第一次备份">
       <created>1552050673734</created>
@@ -434,7 +399,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79714000" />
+    <option name="totallyTimeSpent" value="80532000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -446,9 +411,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23498419" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23498419" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -459,7 +424,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993395" visible="true" weight="0.26450893" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4993395" visible="true" weight="0.2638889" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.22352941" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -881,14 +846,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/固定宽度布局开发WebApp如何实现多终端下自适应？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/固定宽度布局开发WebApp如何实现多终端下自适应？.md" />
     <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考1/加和不加meta的viewport有什么区别？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -942,7 +900,7 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/目前流行的组件库有哪些？css，js各有哪些流行的库？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="491">
+          <first_editor relative-caret-position="630">
             <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
           </first_editor>
           <second_editor />
@@ -992,7 +950,7 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/知道什么是微格式吗？谈谈理解。在前端构建中应该考虑微格式吗？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="491">
+          <first_editor relative-caret-position="1995">
             <caret line="133" column="59" selection-start-line="133" selection-start-column="59" selection-end-line="133" selection-end-column="59" />
           </first_editor>
           <second_editor />
@@ -1002,7 +960,7 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/知道css有个content属性吗？有什么作用？有什么应用？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="565">
+          <first_editor relative-caret-position="570">
             <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
           </first_editor>
           <second_editor />
@@ -1012,7 +970,7 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/谈谈以前端角度出发做好SEO需要考虑什么？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="491">
+          <first_editor relative-caret-position="1800">
             <caret line="120" column="62" selection-start-line="120" selection-start-column="62" selection-end-line="120" selection-end-column="62" />
           </first_editor>
           <second_editor />

@@ -2,7 +2,7 @@
 title: 什么时候用margin好，什么时候用padding好？
 categories:
   - 层叠样式表CSS
-  - 深度思考3
+  - 深度思考
 date: 2019-10-08 00:04:27
 tags:
 ---

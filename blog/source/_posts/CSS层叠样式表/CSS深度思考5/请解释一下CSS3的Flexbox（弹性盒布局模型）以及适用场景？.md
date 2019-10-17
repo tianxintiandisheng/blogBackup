@@ -2,7 +2,7 @@
 title: 请解释一下CSS3的Flexbox（弹性盒布局模型）以及适用场景？
 categories:
   - 层叠样式表CSS
-  - 深度思考5
+  - 深度思考
 date: 2019-10-09 23:36:45
 tags:
 ---

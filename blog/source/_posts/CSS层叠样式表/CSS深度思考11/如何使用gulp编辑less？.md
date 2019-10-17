@@ -2,7 +2,7 @@
 title: 如何使用gulp编辑(编译)less？
 categories:
   - 层叠样式表CSS
-  - 深度思考11
+  - 深度思考
 date: 2019-10-10 22:51:45
 tags:
 ---

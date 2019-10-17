@@ -4,7 +4,7 @@ date: 2018-10-03 23:21:04
 tags:
 categories:
   - 层叠样式表CSS  
-  - 深度思考1
+  - 深度思考
 ---
 >每个html标签元素都有其默认的元素类型，主要包括两大类:inline内联元素、block块元素。除默认为以上两种，还有部分标签元素叫可变元素，会根据上下文语境决定该元素为inline元素或是block元素。在css里，有一个display的属性，他规定元素应该生成的框的类型。可能的值有很多，inline、block、inline-block,其中inline-block是在css2.1里新增的值。具有这个值的元素，我们可以把它叫做inline-block元素。
 

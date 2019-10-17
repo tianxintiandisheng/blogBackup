@@ -2,7 +2,7 @@
 title: Quirks模式是什么？它和Standards模式有什么区别？
 categories:
   - 层叠样式表CSS
-  - 深度思考15
+  - 深度思考
 date: 2019-10-11 22:51:11
 tags:
 ---

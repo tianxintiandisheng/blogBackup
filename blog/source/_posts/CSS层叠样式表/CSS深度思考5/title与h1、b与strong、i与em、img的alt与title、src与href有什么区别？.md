@@ -2,7 +2,7 @@
 title: title与h1、b与strong、i与em、img的alt与title、src与href有什么区别？
 categories:
   - 层叠样式表CSS
-  - 深度思考5
+  - 深度思考
 date: 2019-10-09 23:37:12
 tags:
 ---

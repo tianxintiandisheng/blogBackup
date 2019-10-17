@@ -2,7 +2,7 @@
 title: HTML5的离线储存怎么使用？
 categories:
   - 层叠样式表CSS
-  - 深度思考15
+  - 深度思考
 date: 2019-10-11 23:00:56
 tags:
 ---

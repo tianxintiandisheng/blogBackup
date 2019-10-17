@@ -2,7 +2,7 @@
 title: 什么是CSS sprites？
 categories:
   - 层叠样式表CSS
-  - 深度思考7
+  - 深度思考
 date: 2019-10-09 23:40:15
 tags:
 ---

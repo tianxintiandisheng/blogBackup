@@ -2,7 +2,7 @@
 title: 如何使用sass?
 categories:
   - 层叠样式表CSS
-  - 深度思考11
+  - 深度思考
 date: 2019-10-10 22:30:55
 tags:
 ---

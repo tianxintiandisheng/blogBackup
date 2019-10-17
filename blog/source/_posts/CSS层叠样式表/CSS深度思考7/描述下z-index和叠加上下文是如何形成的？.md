@@ -2,7 +2,7 @@
 title: 描述下z-index和叠加上下文是如何形成的？
 categories:
   - 层叠样式表CSS
-  - 深度思考7
+  - 深度思考
 date: 2019-10-09 23:43:11
 tags:
 ---

@@ -2,7 +2,7 @@
 title: 如何理解HTML结构的语义化？
 categories:
   - 层叠样式表CSS
-  - 深度思考4
+  - 深度思考
 date: 2019-10-09 23:30:07
 tags:
 ---

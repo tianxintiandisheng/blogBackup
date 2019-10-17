@@ -2,7 +2,7 @@
 title: rgba和opacity的透明效果有什么不同？display和visiblity有什么区别？
 categories:
   - 层叠样式表CSS
-  - 深度思考7
+  - 深度思考
 date: 2019-10-09 23:42:40
 tags:
 ---

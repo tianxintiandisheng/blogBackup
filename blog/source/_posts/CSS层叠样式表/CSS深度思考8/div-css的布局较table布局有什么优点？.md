@@ -2,7 +2,7 @@
 title: div+css的布局较table布局有什么优点？
 categories:
   - 层叠样式表CSS
-  - 深度思考8
+  - 深度思考
 date: 2019-10-10 00:26:13
 tags:
 ---

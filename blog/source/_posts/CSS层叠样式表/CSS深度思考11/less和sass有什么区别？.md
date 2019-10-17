@@ -2,7 +2,7 @@
 title: less和sass有什么区别？
 categories:
   - 层叠样式表CSS
-  - 深度思考11
+  - 深度思考
 date: 2019-10-10 22:39:12
 tags:
 ---

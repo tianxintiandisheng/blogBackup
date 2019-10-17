@@ -2,7 +2,7 @@
 title: 如何使用bootstrap栅格系统？
 categories:
   - 层叠样式表CSS
-  - 深度思考9
+  - 深度思考
 date: 2019-10-10 12:52:57
 tags:
 ---

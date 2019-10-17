@@ -4,7 +4,7 @@ date: 2018-10-03 23:16:05
 tags:
 categories:
   - 层叠样式表CSS  
-  - 深度思考1
+  - 深度思考
 ---
 如何理解盒模型及其content、padding、border、margin？
 

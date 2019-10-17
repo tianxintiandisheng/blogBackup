@@ -2,7 +2,7 @@
 title: bootstrap有哪些常用组件？
 categories:
   - 层叠样式表CSS
-  - 深度思考8
+  - 深度思考
 date: 2019-10-10 00:28:31
 tags:
 ---

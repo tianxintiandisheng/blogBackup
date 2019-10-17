@@ -2,7 +2,7 @@
 title: 知道css有个content属性吗？有什么作用？有什么应用？
 categories:
   - 层叠样式表CSS
-  - 深度思考15
+  - 深度思考
 date: 2019-10-11 23:23:05
 tags:
 ---

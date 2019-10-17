@@ -5,7 +5,7 @@ tags:
   - HTML
 categories:
   - 层叠样式表CSS  
-  - 深度思考1
+  - 深度思考
 ---
 >每个 HTML 文件里开头都有个很重要的东西`<!DOCTYPE html>`,DOCTYPE是document type的简写，它并不是 HTML 标签，也没有结束标签，它是一种标记语言的文档类型声明，即告诉浏览器当前 HTML 是用什么版本编写的。
 

@@ -2,7 +2,7 @@
 title: position定位有哪几种？各有什么特点？
 categories:
   - 层叠样式表CSS
-  - 深度思考4
+  - 深度思考
 date: 2019-10-09 23:20:27
 tags:
 ---

@@ -2,7 +2,7 @@
 title: 如何利用github搭建自己的个人网站？
 categories:
   - 层叠样式表CSS
-  - 深度思考2
+  - 深度思考
 date: 2019-10-07 23:09:48
 tags:
 ---
