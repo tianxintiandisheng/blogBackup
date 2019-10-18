@@ -4,11 +4,11 @@
 
 # Site
 title: "天心天地生"
-subtitle:
+subtitle: "死亡是一座永恒的灯塔，不管你驶向何方，最终都会朝它转向。一切都将逝去，只有死神永生。"
 description: "田迪生的个人博客"
 keywords:
 author: "田迪生"
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -74,7 +74,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-theme: next
+theme: next-reloaded
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -87,5 +87,16 @@ deploy:
 search:
   path: search.xml
   field: post
+  content: true
   format: html
-  limit: 10000
+
+
+
+#字数统计、阅读时长
+symbols_count_time:
+  #文章内是否显示
+  symbols: true
+  time: true
+  # 网页底部是否显示
+  total_symbols: true
+  total_time: true
