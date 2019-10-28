@@ -3,5 +3,6 @@ title: {{ title }}
 date: {{ date }}
 tags:
 categories:
-  - Vue
+  - js
+  - 深度思考
 ---
