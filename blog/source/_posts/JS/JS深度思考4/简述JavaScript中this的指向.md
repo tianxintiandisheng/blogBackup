@@ -1,10 +1,10 @@
 ---
 title: 简述JavaScript中this的指向
 date: 2018-08-27 16:25:05
-tags: 
-  - this
+tags:  
 categories: 
   - js
+  - 深度思考
 ---
 
 > **this的指向**：本文重点介绍this作为对象方法调用，作为函数调用，作为构造函数调用，和使用apply 或 call 调用这几种，其他的情况了解即可，
