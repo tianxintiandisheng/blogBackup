@@ -4,29 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/source/_posts/Vue/vue常用指令.md" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0719f2a1-c37d-4073-bac2-3323b0799e75" name="Default" comment="博客文章更新 工具使用">
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/ECMAScript-6-简介.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/json是什么，如何处理转义？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/return的用法是什么？若用在for循环中，还会执行下一次循环吗？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/如何使用Bootbox-？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/如何实现数组深拷贝和浅拷贝？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/如何理解JS作用域与作用域链？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/如何阻止事件冒泡和默认事件？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/对一个数组-filter、some、map、foreach的操作分别有什么作用？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/杀人和投票的业务逻辑上有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/简述JS中的event-delegate事件委托.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/简述JS中的面向对象编程.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/let-和-const-命令.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/JS/路径中“-”、“-”、“-”代表的含义.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Vue/vue-cli3的eslint配置问题.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Vue/vue中修改css属性无效.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Vue/vue中前端跨域方案.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/工具使用/scss常用语法.md" afterDir="false" />
+    <list default="true" id="0719f2a1-c37d-4073-bac2-3323b0799e75" name="Default" comment="博客文章更新 JS深度思考4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS编码规范.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/项目开发/CSS编码规范.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/JS/简述JavaScript中this的指向.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/简述JavaScript中this的指向.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/项目开发/如何验证程序是否完成，测试以及修正Bug.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考4/如何验证程序是否完成，测试以及修正Bug.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next-reloaded/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next-reloaded/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,50 +23,8 @@
         <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="94" column="10" selection-start-line="94" selection-start-column="10" selection-end-line="94" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next-reloaded/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="393" column="27" selection-start-line="393" selection-start-column="27" selection-end-line="393" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/JS/JS深度思考4/简述JavaScript中this的指向.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/JS/JS深度思考4/如何实现数组深拷贝和浅拷贝？.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="300">
-                <caret line="20" lean-forward="true" selection-end-line="175" />
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -94,22 +32,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/JS/JS深度思考4/如何验证程序是否完成，测试以及修正Bug.md">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Vue/vue的生命周期简介.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2505">
-                <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
+              <first_editor relative-caret-position="318">
+                <caret line="81" column="41" lean-forward="true" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
               </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next-reloaded/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -146,6 +74,7 @@
       <find>响应式</find>
       <find>hightlight</find>
       <find>highlight_theme</find>
+      <find>}}</find>
     </findStrings>
     <replaceStrings>
       <replace>`&lt;meta&gt; `</replace>
@@ -166,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/_posts/如何使用bootstrap栅格系统？.md" />
         <option value="$PROJECT_DIR$/source/_posts/响应式的优点与缺点？.md" />
         <option value="$PROJECT_DIR$/source/_posts/媒体查询如何使用？.md" />
         <option value="$PROJECT_DIR$/source/_posts/如何改变默认radio和select的样式？.md" />
@@ -211,12 +139,13 @@
         <option value="$PROJECT_DIR$/source/_posts/CSS层叠样式表/css动画animation绘制向四周扩散的圆圈.md" />
         <option value="$PROJECT_DIR$/source/_posts/npm常用命令.md" />
         <option value="$PROJECT_DIR$/source/_posts/项目开发/CSS编码规范.md" />
-        <option value="$PROJECT_DIR$/scaffolds/post.md" />
         <option value="$PROJECT_DIR$/source/_posts/vue中前端跨域方案.md" />
         <option value="$PROJECT_DIR$/source/demo.js" />
         <option value="$PROJECT_DIR$/themes/next-reloaded/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/JS/简述JavaScript中this的指向.md" />
         <option value="$PROJECT_DIR$/source/_posts/项目开发/如何验证程序是否完成，测试以及修正Bug.md" />
+        <option value="$PROJECT_DIR$/scaffolds/post.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Vue/vue的生命周期简介.md" />
       </list>
     </option>
   </component>
@@ -228,9 +157,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="692" />
-    <option name="y" value="67" />
-    <option name="width" value="1235" />
+    <option name="x" value="65" />
+    <option name="y" value="2" />
+    <option name="width" value="1460" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -241,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,13 +181,32 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="Vue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,16 +225,16 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\Vue" />
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS" />
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS\JS深度思考4" />
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\工具使用" />
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\项目开发" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\themes\next-reloaded\source\images" />
       <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\themes\next\source\images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS\JS深度思考4" />
-      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS" />
-      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\Vue" />
-      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\工具使用" />
-      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\项目开发" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -347,7 +296,11 @@
       <workItem from="1572582219325" duration="3416000" />
       <workItem from="1572670286841" duration="3286000" />
       <workItem from="1572732020238" duration="2172000" />
-      <workItem from="1572912388839" duration="5239000" />
+      <workItem from="1572912388839" duration="5772000" />
+      <workItem from="1573002732517" duration="1191000" />
+      <workItem from="1573091356764" duration="2371000" />
+      <workItem from="1573183449533" duration="1314000" />
+      <workItem from="1573264329520" duration="5194000" />
     </task>
     <task id="LOCAL-00001" summary="新电脑第一次备份">
       <created>1552050673734</created>
@@ -447,11 +400,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572236381428</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="博客文章更新 JS深度思考4">
+      <created>1572965856099</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1572965856099</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163367000" />
+    <option name="totallyTimeSpent" value="173970000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -464,8 +424,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20179136" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32507902" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -475,8 +436,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947312" weight="0.32924107" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" visible="true" weight="0.25223213" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947312" weight="0.32804877" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" visible="true" weight="0.3046875" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021075" side_tool="true" weight="0.32142857" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -538,41 +499,10 @@
     <MESSAGE value="下载 next7.1.2" />
     <MESSAGE value="博客文章更新 Vue" />
     <MESSAGE value="博客文章更新 工具使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="博客文章更新 工具使用" />
+    <MESSAGE value="博客文章更新 JS深度思考4" />
+    <option name="LAST_COMMIT_MESSAGE" value="博客文章更新 JS深度思考4" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/谈谈以前端角度出发做好SEO需要考虑什么？.md" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考12-14/请描述-BFC-Block-Formatting-Context-及其如何工作？.md" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/Quirks模式是什么？它和Standards模式有什么区别？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="154" selection-start-line="22" selection-start-column="154" selection-end-line="22" selection-end-column="154" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/知道什么是微格式吗？谈谈理解。在前端构建中应该考虑微格式吗？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="566">
-            <caret line="133" column="59" selection-start-line="133" selection-start-column="59" selection-end-line="133" selection-end-column="59" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/渐进增强和优雅降级之间有什么不同.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/_config.yml" />
     <entry file="file://$PROJECT_DIR$/themes/next/package.json" />
     <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/知道css有个content属性吗？有什么作用？有什么应用？.md">
@@ -606,13 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -875,43 +798,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Vue/vue-cli3的eslint配置问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/demo.js" />
-    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="94" column="10" selection-start-line="94" selection-start-column="10" selection-end-line="94" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next-reloaded/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/next-reloaded/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="5895">
           <caret line="393" column="27" selection-start-line="393" selection-start-column="27" selection-end-line="393" selection-end-column="27" />
         </state>
       </provider>
@@ -930,7 +820,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="300">
-            <caret line="20" lean-forward="true" selection-end-line="175" />
+            <caret line="20" selection-end-line="175" />
           </first_editor>
           <second_editor />
         </state>
@@ -939,8 +829,103 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/JS/JS深度思考4/如何验证程序是否完成，测试以及修正Bug.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2505">
-            <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
+          <first_editor relative-caret-position="2640">
+            <caret line="176" selection-start-line="176" selection-end-line="176" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next-reloaded/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="94" column="10" selection-start-line="94" selection-start-column="10" selection-end-line="94" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS/js操作符.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1338" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS/js对象常用的方法和对象的深拷贝.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-76" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Vue/vue-cli3的eslint配置问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Vue/vue中js数据改变视图层数据未更新.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-859">
+            <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <folding>
+              <element signature="e#1282#1834#0" />
+              <element signature="e#1967#2573#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Vue/vuex基本使用和购物车demo-md.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <folding>
+              <element signature="e#0#21#0" expanded="true" />
+              <element signature="e#0#21#0" expanded="true" />
+              <element signature="e#0#21#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Vue/vue的生命周期简介.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="318">
+            <caret line="81" column="41" lean-forward="true" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
           </first_editor>
           <second_editor />
         </state>
