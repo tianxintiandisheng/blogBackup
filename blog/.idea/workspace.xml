@@ -4,7 +4,18 @@
     <bookmark url="file://$PROJECT_DIR$/source/_posts/Vue/vue常用指令.md" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0719f2a1-c37d-4073-bac2-3323b0799e75" name="Default" comment="博客文章更新 JS深度思考4">
+    <list default="true" id="0719f2a1-c37d-4073-bac2-3323b0799e75" name="Default" comment="博客文章更新 vue相关文章">
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/Ajax异步请求之设置Content-Type.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/http状态码有那些？分别代表是什么意思？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/network中的请求信息，headers中的每一项分别是什么意义.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/为什么有时我们需要配置hosts来本地测试？和什么有关？若不配置hosts会影响什么？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/什么是Ajax？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/什么是rest风格-get-与-post的区别-application-json-与form表单的区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/前端垮域问题有哪些常用的解决方式？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/如何使用PostMan？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/如何使用正则表达式？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/异步编程有哪几种方法来实现.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/简述原型链是什么，有什么用处？若想访问一个对象的原型，应该使用什么方法？.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
     </list>
@@ -23,8 +34,20 @@
         <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="8" selection-start-line="5" selection-start-column="1" selection-end-line="6" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/JS/JS深度思考5/http状态码有那些？分别代表是什么意思？.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,11 +55,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/JS/JS深度思考5/如何使用PostMan？.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="322">
+                <caret line="94" column="36" selection-start-line="94" selection-start-column="36" selection-end-line="94" selection-end-column="36" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Vue/vue的生命周期简介.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="318">
-                <caret line="81" column="41" lean-forward="true" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
+              <first_editor relative-caret-position="1215">
+                <caret line="81" column="41" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
               </first_editor>
               <second_editor />
             </state>
@@ -74,6 +109,7 @@
       <find>响应式</find>
       <find>hightlight</find>
       <find>highlight_theme</find>
+      <find>{{</find>
       <find>}}</find>
     </findStrings>
     <replaceStrings>
@@ -87,6 +123,8 @@
       <dir>C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\CSS层叠样式表</dir>
       <dir>C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\CSS层叠样式表\CSS深度思考</dir>
       <dir>C:\Users\sky\WebstormProjects\blogBackup\blog</dir>
+      <dir>C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS</dir>
+      <dir>C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS\JS深度思考5</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -95,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/_posts/响应式的优点与缺点？.md" />
         <option value="$PROJECT_DIR$/source/_posts/媒体查询如何使用？.md" />
         <option value="$PROJECT_DIR$/source/_posts/如何改变默认radio和select的样式？.md" />
         <option value="$PROJECT_DIR$/source/_posts/自适应小屏幕设备时，该如何布局？.md" />
@@ -144,8 +181,9 @@
         <option value="$PROJECT_DIR$/themes/next-reloaded/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/JS/简述JavaScript中this的指向.md" />
         <option value="$PROJECT_DIR$/source/_posts/项目开发/如何验证程序是否完成，测试以及修正Bug.md" />
-        <option value="$PROJECT_DIR$/scaffolds/post.md" />
         <option value="$PROJECT_DIR$/source/_posts/Vue/vue的生命周期简介.md" />
+        <option value="$PROJECT_DIR$/scaffolds/post.md" />
+        <option value="$PROJECT_DIR$/source/_posts/JS/JS深度思考5/如何使用PostMan？.md" />
       </list>
     </option>
   </component>
@@ -157,9 +195,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="2" />
-    <option name="width" value="1460" />
+    <option name="x" value="-158" />
+    <option name="y" value="465" />
+    <option name="width" value="1600" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -170,7 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,12 +238,14 @@
               <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-              <item name="Vue" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="JS深度思考5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,16 +264,16 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\themes\next-reloaded\source\images" />
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\themes\next\source\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS\JS深度思考5" />
       <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\Vue" />
       <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS" />
       <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\JS\JS深度思考4" />
       <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\工具使用" />
-      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\source\_posts\项目开发" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\themes\next-reloaded\source\images" />
-      <recent name="C:\Users\sky\WebstormProjects\blogBackup\blog\themes\next\source\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -301,6 +340,8 @@
       <workItem from="1573091356764" duration="2371000" />
       <workItem from="1573183449533" duration="1314000" />
       <workItem from="1573264329520" duration="5194000" />
+      <workItem from="1573373159863" duration="3369000" />
+      <workItem from="1573442018993" duration="4814000" />
     </task>
     <task id="LOCAL-00001" summary="新电脑第一次备份">
       <created>1552050673734</created>
@@ -407,11 +448,18 @@
       <option name="project" value="LOCAL" />
       <updated>1572965856099</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="博客文章更新 vue相关文章">
+      <created>1573373222065</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1573373222065</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173970000" />
+    <option name="totallyTimeSpent" value="182153000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -424,9 +472,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32507902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739726" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -436,8 +483,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947312" weight="0.32804877" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" visible="true" weight="0.3046875" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947312" weight="0.32700893" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" visible="true" weight="0.21763393" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021075" side_tool="true" weight="0.32142857" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -500,21 +547,10 @@
     <MESSAGE value="博客文章更新 Vue" />
     <MESSAGE value="博客文章更新 工具使用" />
     <MESSAGE value="博客文章更新 JS深度思考4" />
-    <option name="LAST_COMMIT_MESSAGE" value="博客文章更新 JS深度思考4" />
+    <MESSAGE value="博客文章更新 vue相关文章" />
+    <option name="LAST_COMMIT_MESSAGE" value="博客文章更新 vue相关文章" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/next/_config.yml" />
-    <entry file="file://$PROJECT_DIR$/themes/next/package.json" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/知道css有个content属性吗？有什么作用？有什么应用？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="505">
-            <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/CSS层叠样式表/CSS深度思考15/目前流行的组件库有哪些？css，js各有哪些流行的库？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -911,21 +947,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/Vue/vue的生命周期简介.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <first_editor relative-caret-position="1215">
+            <caret line="81" column="41" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Vue/vue的生命周期简介.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS/JS深度思考5/简述原型链是什么，有什么用处？若想访问一个对象的原型，应该使用什么方法？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="318">
-            <caret line="81" column="41" lean-forward="true" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
+          <first_editor relative-caret-position="-1080" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="8" selection-start-line="5" selection-start-column="1" selection-end-line="6" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS/JS深度思考5/http状态码有那些？分别代表是什么意思？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/JS/JS深度思考5/如何使用PostMan？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="322">
+            <caret line="94" column="36" selection-start-line="94" selection-start-column="36" selection-end-line="94" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
