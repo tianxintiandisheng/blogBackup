@@ -1,13 +1,12 @@
 ---
 title: let 和 const 命令
 categories:
-  - js
+  - ES6
 date: 2019-11-05 08:17:41
 tags:
-  - es6
 ---
 
-# let 和 const 命令
+
  
 ## let 命令
  

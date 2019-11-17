@@ -2,6 +2,7 @@
 title: ES6 新特性简要总结
 date: 2018-08-15 11:12:38
 tags:
+ - es6
 categories: 
   - js
 ---

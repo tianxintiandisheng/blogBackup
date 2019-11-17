@@ -1,10 +1,9 @@
 ---
 title: ECMAScript 6 简介
 categories:
-  - js
+  - ES6
 date: 2019-11-05 08:10:10
 tags:
-  - es6
 ---
 
 # ECMAScript 6 简介
